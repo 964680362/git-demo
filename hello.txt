@@ -1,6 +1,5 @@
-hello atguigu! hello git!	22222
-hello atguigu! hello git!	33333
-hello atguigu! hello git!
+hello atguigu! hello git!	1232362
+hello atguigu! hello git!	3365363
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
@@ -14,6 +13,7 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!	masterupdate
+hello atguigu! hello git!	hot-fixupdate
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!	nimensha
